@@ -1,4 +1,4 @@
-#we use nested for loops to loop over lists
+#we define functions and use them to create non-repetitive code
 picture = [
     [0,0,0,1,0,0,0],
     [0,0,1,1,1,0,0],
